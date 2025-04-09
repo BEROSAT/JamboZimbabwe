@@ -15,7 +15,7 @@
   "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
   "categorie": "SPORTS"
-  },
+  }
   "2":{
   "id": "3",
   "name": "KK TV",
